@@ -3,6 +3,13 @@
 All notable changes to Chatto. Maintained by release-please from the
 conventional-commit messages on `main` — do not edit by hand.
 
+## [0.4.15](https://github.com/chattocorp/chatto/compare/v0.4.14...v0.4.15) (2026-07-20)
+
+
+### Bug Fixes
+
+* **frontend:** preserve video playback on reactions ([#1619](https://github.com/chattocorp/chatto/issues/1619)) ([e445af0](https://github.com/chattocorp/chatto/commit/e445af067a9c9e8b8f6f25333408ecc7bc9e631f))
+
 ## [0.4.14](https://github.com/chattocorp/chatto/compare/v0.4.13...v0.4.14) (2026-07-19)
 
 
